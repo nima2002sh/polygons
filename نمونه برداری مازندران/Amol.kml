@@ -1,0 +1,6077 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml>
+  <Document>
+    <name>UTM Geo Map</name>
+    <open>1</open>
+    <description>Exported data from UTM Geo Map APP</description>
+    <Style id="transRedPoly">
+      <LineStyle>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d0000ff</color>
+      </PolyStyle>
+    </Style>
+    <Folder>
+      <name>Points</name>
+      <visibility>1</visibility>
+      <description>Point features</description>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.346277460455894,36.43278237409105,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33954343944788,36.41690636299768,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.34031591564417,36.421212029013994,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.339720129966736,36.42212282795313,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33423300087452,36.42079979185914,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.330973111093044,36.42013394869134,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32862953096628,36.42245736042597,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32985932379961,36.42319359657425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33129497617483,36.424123256724975,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33007289469242,36.425262790141346,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.329964600503445,36.42107902341717,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.322384007275105,36.4238167884449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3234411329031,36.42539416993111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32308339327574,36.42625501229307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.322197929024696,36.42612875960756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32488315552473,36.42729254261212,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.321726866066456,36.427444421211995,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WR</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32184085994959,36.42853426958962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.316270247101784,36.43528532351692,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31106407940388,36.43553240413529,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31360983103514,36.437480698966795,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.309980131685734,36.43994762374251,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.308495193719864,36.439051329398,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.306170389056206,36.441759870688685,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30435185134411,36.436208365213616,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3073985055089,36.436101549728576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.310005612671375,36.42681478401332,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30594340711832,36.42805840698172,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30280287563801,36.43080105125638,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29769494384527,36.416798171937,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29127608239651,36.41648924650773,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FO</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28537958115339,36.41430514914107,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28883996605873,36.412314720574166,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28908438235521,36.40953094904357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2878123447299,36.40558784401454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30548810213804,36.40090593958297,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FO</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31959652155638,36.39738555533878,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35115338116884,36.40840953339207,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.347883097827435,36.41744380862635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41162981837988,36.46259807278701,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.411156073212624,36.46750813714322,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42115065455437,36.47103558779133,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41994298994541,36.46409593153056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43502605706453,36.47052008258528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42777671664953,36.46600117682414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43297517299652,36.46296505759653,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42498017847538,36.458840490616375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41955608129501,36.45826638829235,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42743004113436,36.452760021496985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41851605474949,36.45024253323059,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.435443475842476,36.457961133470604,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.432897724211216,36.475923819528546,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.440370693802834,36.478218601967605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45006620883942,36.470843621818155,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44308911263943,36.469814223138634,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.448207437992096,36.46558567232516,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.454434521496296,36.46836662496823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.460121139883995,36.4628604360938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4652823805809,36.46060348941079,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4544532969594,36.44816591473223,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.454010397195816,36.450262220386705,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44506288319826,36.45142995646264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43834629654884,36.446647520830226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44726061820984,36.45499993754294,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44384415447712,36.460917362631285,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44127459824085,36.45760760805445,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43231099098921,36.446887283406205,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.431530468165874,36.44744690633308,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42580998688936,36.44915433813198,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.441204860806465,36.438126433409266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43481583893299,36.431130690774815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42852404713631,36.43381361305783,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44830936193466,36.43763390628809,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44429577142,36.43298387543176,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44445435702801,36.43080024199233,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44051318615675,36.422607629785404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4385367333889,36.424918557851484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4341281875968,36.424562184100274,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45705973356962,36.43913386551219,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47200030833483,36.43745372581553,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.468623742461205,36.4387481567742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.477636970579624,36.44731502447436,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46354464441538,36.44640236350439,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47217498719692,36.45335816577475,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46579401195049,36.44979700885482,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.466014958918095,36.45503553404918,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47256860136986,36.45772706800542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45370026677847,36.46339324928582,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44576159864664,36.48080392511742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.449086867272854,36.49597040503597,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45967086404562,36.49790047127814,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.452856712043285,36.487030991713496,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46313091367483,36.48222406383952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45962090790272,36.4859637996911,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46186826378107,36.4906572860683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4676725640893,36.4919670015866,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.467288337647915,36.49777217902237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4751565977931,36.49766302262903,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46656380593777,36.5040035410982,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4727701023221,36.51171193755863,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46942739933729,36.51333549682058,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46510334312916,36.51633111004662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.471033707261086,36.51639874376424,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47200466692448,36.522779220668376,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.459680922329426,36.520194220918526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.456945069134235,36.51336540771736,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45352491736412,36.506565905443686,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4615541100502,36.47641044201738,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.498843520879745,36.49477315222795,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.492989264428616,36.49104812755138,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48368836939335,36.48853430850174,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46851611882448,36.48808010881816,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47506473213434,36.48530660264454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.473846673965454,36.47557334160498,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.473368905484676,36.47057697166491,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47989807277918,36.48051709059874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46973752975464,36.467554243357796,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48613253235817,36.4839892265593,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49033320695162,36.47722165243741,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48767714947462,36.49343868677529,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48792190104723,36.49831634156196,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48406656086445,36.49940115145999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49601814895868,36.50140066558255,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49131925404072,36.505098242679324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49333694577217,36.51077793766186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48756181448698,36.50823107340552,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.485836148262024,36.51428320853374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.491883523762226,36.515987281946636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49049715697765,36.520873485524355,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49316327273846,36.524442153799484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49928943812847,36.532956447177284,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50052258372307,36.53998071381134,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.504755444824696,36.53641949710526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50138860195875,36.52723715886327,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50798214226961,36.53149009311265,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50848572701216,36.526844614122396,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51608308404684,36.52748017458164,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.52064920961857,36.52605871039475,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51669965684414,36.53355397242416,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.52515062689781,36.533569058664604,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51556910574436,36.521924569061476,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50441178679466,36.52121998631477,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49149527400732,36.529425889313174,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47930731624365,36.52650164100581,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47847583144903,36.52048683623195,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4722832813859,36.53021741641558,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47116010636091,36.5269639673326,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47697312384844,36.536889306945646,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47884564101696,36.542092583306214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48414468020201,36.548297482403555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.488443590700626,36.553023279499676,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49172057956457,36.54739543802372,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49716345220804,36.55325301708594,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.498269863426685,36.543260821023814,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.495580278337,36.54112635629682,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49111037701368,36.53902712118146,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.485141791403294,36.54251791330831,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50826142728329,36.55984293613508,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.504361160099506,36.56187347346474,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50038914382458,36.55947641038217,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49789468944073,36.55861785537557,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.493787221610546,36.556496472628034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50052660703659,36.55200278388953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49879825860262,36.55179809061652,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.498929016292095,36.54739139778933,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.504336684942245,36.54645917539325,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.508697621524334,36.54618497435167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51075956970453,36.54368614459874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.5151577219367,36.54324923839847,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51095939427614,36.551027523315064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.5220151245594,36.550715900592344,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51610990613699,36.55835662438711,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51775711774826,36.563149399193634,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.52228334546089,36.55814898551782,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.52502053976059,36.56300101803151,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.528179846704006,36.560265475422156,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.525016851723194,36.56446004219974,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.53095995634794,36.563703335061284,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.523115165531635,36.56777196248522,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51412507146597,36.56759154606015,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.515460811555386,36.57196692946138,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51212950795889,36.56873624074003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.52389904111624,36.57568617394846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.52988539636135,36.57489430464343,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.52198193222284,36.54592720293742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.488543167710304,36.5590000050965,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.490321807563305,36.56522131980195,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.492896392941475,36.56729264627926,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.499118112027645,36.564048836072885,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.5025774911046,36.569912153836,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49940175563097,36.570335176586525,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50597149133682,36.573576030216394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4849634245038,36.56504520601841,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49132327735424,36.5709256812363,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49158043414354,36.577822107339244,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49418318271637,36.58589277960113,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49515615403652,36.583418925673946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.497360929846764,36.585539299832426,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50050313770771,36.58569436807955,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50265795737505,36.58621045234578,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.504086904227734,36.58884708566657,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.501828484237194,36.58844112430324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50149488449097,36.59017855934212,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50530529767275,36.59071480347245,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50780913978815,36.58944929364964,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50709567219019,36.58586855027035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.508870624005795,36.58420370781506,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50974904745817,36.59364173700888,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.51199573278427,36.600447579045984,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50396452844143,36.601200157841184,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.50190492719412,36.59661862653065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49151103198528,36.599621779559946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49432399868965,36.59464553147085,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.488037906587124,36.57832262824982,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.484857477247715,36.57207221134243,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47796654701233,36.554297196781896,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47228395193815,36.54820348065884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46393222361803,36.52691789647645,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46418904513121,36.534119973821795,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45603512972593,36.530220110503535,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.456605434417725,36.524703499404886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44689114391804,36.53467250141408,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.441883124411106,36.523144303833156,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43513938039541,36.529473575143946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42789674550295,36.535194583829536,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42757689207792,36.529007492034616,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42928110063076,36.52656226087389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.420195788145065,36.51559333282563,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41940386593342,36.51299138594251,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41645611822605,36.51625943440887,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41341918706894,36.507175492045235,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.409072667360306,36.50493923971778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40796022117138,36.50456140425172,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40459404885769,36.49760103250995,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.401456870138645,36.493391787349026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.398386746644974,36.49172872611629,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.393598668277264,36.48841786112159,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39399295300245,36.48440867592855,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38713890314102,36.4817706358916,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36375875771046,36.49367668744906,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.364731058478355,36.5014416309609,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.367656007409096,36.504648182603205,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.371514700353146,36.5071148569882,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.367960438132286,36.50905946697574,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.369888946413994,36.512650776644165,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37297348678112,36.51293048597232,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37534422427416,36.51326381840832,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.372938953340054,36.51866942395165,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.381228655576706,36.51373834981989,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.380262054502964,36.5221252998742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38528683781624,36.52112460444794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38650590181351,36.51779397914103,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39075183868408,36.51330801112148,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39048797637224,36.517051096228734,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39393696188927,36.51843069175374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.393552735447884,36.517398961403806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39158399403095,36.52119412005742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3936278373003,36.510405520249606,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3958208784461,36.51487063845807,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39869151264429,36.51193452213755,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.401167526841164,36.51337834215562,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40064885467291,36.518576194535385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40243352949619,36.52080289186044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.399197444319725,36.52348513637667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40408308804035,36.5286769215605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40921784192324,36.526908197345335,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40498464554548,36.52702243147898,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4128445237875,36.53533251213501,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40219313651323,36.53371372478512,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.408212684094906,36.53821467253259,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.418671287596226,36.53839273312938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BR</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.413336373865604,36.540037551870725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.414983920753,36.54423671831626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.409420013427734,36.54186604496563,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.411062866449356,36.55041154875147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42252394556999,36.5471519461868,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4170371517539,36.556104884374584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42587871849537,36.55598153635694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42181517183781,36.558509592743206,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42156136780977,36.559862326133825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4184687808156,36.563355947451186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41416484117508,36.56672069428514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42640610784292,36.56291484372306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42737773805857,36.56872277701035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.432855144143105,36.56948401260137,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.426631078124046,36.573854980685574,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.437193281948566,36.5703917230549,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43488188832998,36.57568994345309,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42682285606861,36.57911930868715,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42099039256573,36.57249037555503,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43963040411472,36.580449873229895,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.437589913606644,36.5843994309688,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.441382221877575,36.58934134343599,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44654379785061,36.58518178018675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44726665318012,36.57899572817795,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.440339513123035,36.576642545227216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.444681003689766,36.574155739859826,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44254294782877,36.569309793444766,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43794731795788,36.565005620754896,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43668030947447,36.56103514270394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.435683868825436,36.55646119206204,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43703939020634,36.54899481555901,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44160920381546,36.546442744906386,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.433361411094666,36.54516250295312,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42506366223097,36.540016001900526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.437742464244366,36.540105434237596,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44593158364296,36.55203779715825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44680732488632,36.55740406638337,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.444873452186584,36.5630058653335,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44432996958494,36.568349830765335,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45074648410082,36.56836868007724,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44985196739435,36.56504008955691,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.459105253219604,36.56517850318508,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.458641566336155,36.5601117026285,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45458606630564,36.55852844445626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.455780655145645,36.5525010481433,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45994076132774,36.55532601105554,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45222605764866,36.55342781111086,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45143681764603,36.54884586852659,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.475843243300915,36.56887949467848,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46834143996239,36.564427458166094,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47337192296982,36.56041817069553,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47019484639168,36.55513452336298,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45504103600979,36.57478525706116,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.460422553122044,36.583138125185926,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4643724411726,36.582206064853935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45793614536524,36.589242007569815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46580071747303,36.592086893100586,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46329218149185,36.60121496171379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46634520590305,36.60954370832407,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46235843747854,36.615669183789,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46235843747854,36.615669183789,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48384762555361,36.60845586816714,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45698161423206,36.61681639483003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45011147111654,36.61820416637162,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.449510991573334,36.62255461577219,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42771536111832,36.61894607703606,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42283709347248,36.61179281359675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41895895451307,36.604690832364554,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42011398077011,36.59570772506742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41913262754679,36.58932465286578,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41169050335884,36.58442016090236,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41466071456671,36.584661112319274,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.415237724781036,36.57496457967039,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40752134472132,36.57542903944731,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.397080175578594,36.571340620471155,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39863686263561,36.565437018246676,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38821715116501,36.55679864597605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.389765456318855,36.55097527205597,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38350987434387,36.55385738796686,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.382770255208015,36.54620517583686,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.381136789917946,36.540261940578546,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37100541591644,36.534910375314986,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37305998802185,36.53330666542027,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.371729612350464,36.52170928805404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36709341406822,36.5230077009614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36063063144684,36.526145464643584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35720578581095,36.51726288729614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36064236611128,36.51333926936677,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35465869307518,36.512644578834504,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35714007169008,36.510818628601946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35229700803757,36.52069376794026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.357272170484066,36.52594420541423,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35205091536045,36.530547441490626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.358825504779816,36.53404238796372,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.352916933596134,36.5405781847826,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35784985125065,36.540887424031105,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.357162199914455,36.54225905219877,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36312039196491,36.54974681861661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35939580947161,36.554944112486524,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.34970599412918,36.55113202572727,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35296756029129,36.548175468655494,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.34644275158644,36.548040256727376,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.347908578813076,36.547053364096634,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.343756183981895,36.55322877751352,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.34303902834654,36.54684758031201,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33613133430481,36.55143260404268,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33783923089504,36.547505332318394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3413036391139,36.54346257391696,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.343506403267384,36.539962396323595,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.340065129101276,36.53642757872069,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.34344907104969,36.536668141086224,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.342053316533566,36.53659594551648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.346678115427494,36.53544727260792,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33859058469534,36.5252005924753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.34370857477188,36.52580626036558,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.34191853553057,36.521546816509094,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.337402030825615,36.51339397126563,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32608310878277,36.53658732514544,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31194216758013,36.547056865648415,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31515444815159,36.535300185210474,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31565836817026,36.5498734086697,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FO</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30743873864412,36.563532065085944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2933866456151,36.546565030741405,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.291494347155094,36.54473799557542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28579297661781,36.54370634673693,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28593781590462,36.54024012129702,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.282073087990284,36.53889135449469,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27496489882469,36.534889632093396,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27282986044884,36.540630981815035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.275355495512486,36.53674249167715,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26962361484766,36.53634541559124,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.264152243733406,36.54315954033422,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26492237299681,36.54066222902132,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26216405630112,36.539791881854384,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26257812231779,36.53683165841475,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26103752851486,36.531278071585795,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OT</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26068649441004,36.53252621536488,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.252911776304245,36.53529776069059,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25746314972639,36.537262135659134,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25337781012058,36.531013784726454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24936254322529,36.5366355453336,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.242012955248356,36.53701564866913,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.236043363809586,36.53742565173157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FO</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.23236672580242,36.53620425643715,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.23940819501877,36.53227809686959,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.247006222605705,36.532856499987815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24955901503563,36.5299978479325,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24775690585375,36.524309594660124,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25293155759573,36.52593100365266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.253724820911884,36.519395585646826,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26162292063236,36.51813483525396,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25915931165218,36.507858374252606,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26433429867029,36.509166451445594,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26356819272041,36.508202238466424,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26603548973799,36.503727033523404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.271161526441574,36.50784220505134,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27289825677872,36.508615628061904,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27009367197752,36.5133010049613,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.281643599271774,36.525506390690516,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.275874838232994,36.52679692667088,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.282085828483105,36.53303807510951,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3367777466774,36.510650205697765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.35533360391855,36.49931490626021,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36223325133324,36.4956636815191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37421166151762,36.48678784897937,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.387281730771065,36.478660188818175,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.386012710630894,36.47428195157675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39705301821232,36.47293958410244,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4027905985713,36.47188891392669,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42423586547375,36.474390332109856,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44825404137373,36.473862986598135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44676373898983,36.47206227413876,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44485400617123,36.469370159299174,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44780711829662,36.46854268929267,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45114713907242,36.46780391747048,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.452067136764526,36.46493234699041,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45245672762394,36.46032440004198,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.453653663396835,36.445094035567976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45480868965387,36.43849218537162,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.456329837441444,36.43608051029752,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45751067996025,36.434681105590656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45817452669144,36.43189894503788,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45235379785299,36.4312712322388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45715294033289,36.42885771422097,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.454773150384426,36.432377211846756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45944622904062,36.433132236191646,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46132142841816,36.43220538141478,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46344808489084,36.42933734856625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.464160211384296,36.434066362971436,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.463235184550285,36.435719062770836,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46669389307499,36.43002712122295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46842660009861,36.43387484496944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46992528438568,36.43140206235566,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.470195181667805,36.42963597205263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47090630233288,36.4262887335953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.465989142656326,36.423158525021606,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.468452751636505,36.42210664086142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WI</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.461540363729,36.42111625421572,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46193967759609,36.420422625320064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.459176667034626,36.42210448258228,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46508724987507,36.41662172035757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46632542461157,36.41821543590738,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46032498776913,36.41616602015803,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46404990553856,36.41277907752327,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.469622194767,36.4151404825764,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4733055382967,36.40797726057261,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.469089441001415,36.40588736835677,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.477835454046726,36.41322805220121,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FO</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.460556998848915,36.388002932348854,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4753188714385,36.40287669143055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.470669597387314,36.40362876443794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.470223009586334,36.40022994102765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4735402315855,36.39585159483996,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47665125876665,36.39840026274713,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47866794466972,36.396685777325324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4769214913249,36.39271098345581,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47537285089493,36.39354465987822,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.481455095112324,36.39297709156635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48313717544079,36.39057938683321,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48337119817734,36.39099934136085,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.488764114677906,36.39238360985514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48133137822151,36.386943014752305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48016428202391,36.38585366243605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48432941734791,36.38610791798426,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48375575989485,36.384319744287914,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48765233904123,36.39053323487981,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.483651489019394,36.38875218037916,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.47964158654213,36.38916053910769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.482586316764355,36.403730767320766,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.483945190906525,36.40209087934976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.49171454459429,36.39828017173704,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.48527456074953,36.39615223621112,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.466189973056316,36.40665965011787,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4647643789649,36.40279114839923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.46237587183714,36.40803392568592,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.461275830864906,36.40850424453129,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45853025466204,36.41023034156179,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45931077748537,36.413727479518165,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WI</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45896980166435,36.413375101636724,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45496526360512,36.414059889653146,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45870158076286,36.411675516956194,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45116926729679,36.41042650492214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.452393025159836,36.40599044763813,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4535621330142,36.408432469148615,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45394367724657,36.40567392365096,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45869990438223,36.40581505087357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45535485446453,36.40300648998277,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45024859905243,36.40554305018484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.45179355144501,36.40275417866886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.449288703501225,36.401732511861404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44678620249033,36.402838642333606,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.445123232901096,36.40225090285257,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44623936712742,36.40047011683653,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.447129525244236,36.3922019749379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44507059454918,36.39259925016421,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44412578642368,36.39811177414295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44352128356695,36.40027095987003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.44127593934536,36.39835708397837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.439298145473,36.404730010703176,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43432097136974,36.396659329748864,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.434136904776096,36.39948728034715,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43602383881807,36.402673492845864,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43124347180128,36.40546965301044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43029464036226,36.40566286012936,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.429205663502216,36.404090204983504,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43053939193487,36.404160635141544,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.433911599218845,36.40750289100282,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.435501143336296,36.41036849242562,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42966029793024,36.40837175683708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.43159484118223,36.413297664629226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.432702258229256,36.41587112215631,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42225170135498,36.40936095685531,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WI</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.426292449235916,36.42168793358379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42736533284187,36.41727572236609,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42309357970953,36.41592724189889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42196001112461,36.41965155955615,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42171090096235,36.4229149121842,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41683732718229,36.42631678970757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.416489981114864,36.43007082190443,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41429090499878,36.4287608698063,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.407350689172745,36.424724049746395,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.408727668225765,36.43524917846967,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.406264059245586,36.43233297296499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.402003705501556,36.43156094646911,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.401640601456165,36.42945064758519,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40390907973051,36.43463390086708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40709017962217,36.437041305165266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41189904510975,36.43782002040886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.410316206514835,36.437904176212584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41275768727064,36.439109859919405,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40973684936762,36.44236673064849,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41306412965059,36.44447020538896,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41538591682911,36.44159156735251,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41461679339409,36.44697169907491,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42169447243214,36.44574078546864,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4236910417676,36.44407373483438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.42399211972952,36.441613953875006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.421250231564045,36.4283440867544,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41672031581402,36.42207534580793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.413932494819164,36.4230317277376,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41432040929794,36.41719586102987,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41616375744343,36.416852132584594,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41816837340593,36.419868473162204,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.41181522607803,36.42138118590438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.412889786064625,36.419109003094995,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40982972085476,36.41655372973373,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.4086706712842,36.4141009011946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.405934147536755,36.416501927313725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40329083055258,36.41283492968284,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40800581872463,36.420144470568594,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40481398999691,36.41852921082236,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40400765091181,36.415774801157454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.40048322826624,36.41307776469232,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.39533841609955,36.420882617169994,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.397971004247665,36.413694832017484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.398855462670326,36.42113918622041,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.391286604106426,36.415748360078034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38798547536135,36.419917845204296,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38564658910036,36.417104667917144,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.393186278641224,36.40913079223622,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.383658066391945,36.41543997008921,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38188814371824,36.41529832073383,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38048769533634,36.416353264968585,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3752573877573,36.41295445856571,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37846698611975,36.41402589322737,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.374399080872536,36.417079576302264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37669438123703,36.417503704445,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37657804042101,36.41852462426781,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.377831637859344,36.42068594063623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37646136432886,36.421162118218355,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37539317458868,36.42362308691865,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.372074611485004,36.424683583366516,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37454827874899,36.42647892146548,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.372042424976826,36.43076679240451,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36941084265709,36.42838590004184,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37085722386837,36.433035666856505,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.374289110302925,36.43535410695584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37670611590147,36.436698204039956,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.385137639939785,36.44559352762499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.38343209028244,36.44445752915088,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.379261925816536,36.440874386063555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WR</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37929377704859,36.44150229091542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37833421677351,36.44140762001948,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37853404134512,36.44179844015181,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.37611033022404,36.439715391985445,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36975785344839,36.43654931062683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.366589829325676,36.44031174879171,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.364009879529476,36.44114329610887,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.368411384522915,36.44347821607204,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36832454800606,36.44568037202812,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36483331769705,36.445783937897325,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36351568251848,36.44727160319985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36542172729969,36.450101756434385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36378625035286,36.45178674621938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.36648354679346,36.454057433196084,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WR</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33574107289314,36.4475874182508,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.335120141506195,36.44696900209011,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3363821208477,36.44656768970688,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.337274961173534,36.44620494252049,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33453340828419,36.44564234390082,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.33188070356846,36.445243182291065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32977952808142,36.44535295193848,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.327193543314934,36.44205386121747,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32649281620979,36.44333068422294,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32828252017498,36.44194435661858,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32257645577192,36.44377840341077,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.317346818745136,36.4426820262385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31924884021282,36.444685970825894,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31731899082661,36.445174947026565,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31898866593838,36.44718017571625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31864668428898,36.448055070285946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31908891350031,36.45038708538385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31670543551445,36.45014895174895,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31445103883743,36.459270053361294,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29075238108635,36.449888163566065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.288876846432686,36.450384927890994,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.286543659865856,36.452936660616224,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28374343365431,36.45134905152762,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.265001498162746,36.4622140985773,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.261804305016994,36.46458990848295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.256749011576176,36.465018091198786,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.247953712940216,36.46328134803354,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25043274462223,36.46134718351976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25238639861345,36.46022975211491,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24958315491676,36.4597573197087,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25389614701271,36.457305316927695,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25073214620352,36.45741048524996,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24667798727751,36.453740296110944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24915400147438,36.45229185846552,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.249558344483376,36.44865972346743,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24740318953991,36.44890352520111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.249033972620964,36.44637053884423,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25003309547901,36.44262322869785,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25152641534805,36.44038538276064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24920194596052,36.43805333675584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25454859435558,36.43998322715601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25272301584482,36.445515043934805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2524356842041,36.44437850489658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2539796307683,36.444023569027976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25627392530441,36.445498322313576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25824769586325,36.446352468904266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.257791720330715,36.4478344597002,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25784972310066,36.4434935895758,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.255480997264385,36.44257171338479,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26014904677868,36.44303373169806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26006153970957,36.44546757609739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26184789091349,36.44406105853152,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.262578792870045,36.441742608824875,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.248218916356564,36.451445598073654,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.276996336877346,36.455195448455214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27379947900772,36.45474617712734,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27494914084673,36.45183367082719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27797232568264,36.450393018488846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.273350208997726,36.45117375721227,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27610282599926,36.454347062360306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2743047401309,36.4562663001714,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27549530565739,36.462118374373574,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.272532135248184,36.46332071572144,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.275124825537205,36.46709317997787,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27485828101635,36.46508523046559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.270188219845295,36.46984145465742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27164030075073,36.47327982887139,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26858492940664,36.47441028273872,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27260321378708,36.48123471406319,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26545479148626,36.4806446026916,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26617597043514,36.48497934986207,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26370867341757,36.48501439347159,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26489521563053,36.49053302501808,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.261711433529854,36.490599603089294,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26453177630901,36.49540385502364,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26285070180893,36.498119861323815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26284936070442,36.49632833744587,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25973531603813,36.49671888078591,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.25871540606022,36.4929103927455,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.254638113081455,36.49283815634301,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.248835153877735,36.49084138612981,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FO</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.231739424169064,36.49443812297026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2475902736187,36.486869256055144,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24441520869732,36.49251659571893,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.24407959729433,36.48853188251643,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2634082660079,36.5000924571684,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.263649329543114,36.504532567945695,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.26976811885834,36.50533243458217,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.274763733148575,36.503500652317555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27525994181633,36.49817915582407,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27874580770731,36.501406594783404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.27886885404587,36.499122471311956,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28695973753929,36.49983426262008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.283360213041306,36.500643341197154,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.283890619874,36.50432559302271,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28860829025507,36.49700781151318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.28906158357859,36.494000130000956,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29209516197443,36.49560061168226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29105982929468,36.49231012775776,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.2919412702322,36.48919120861482,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29590490460396,36.49134543530366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.296804785728455,36.492686675310054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.297489419579506,36.48952841697277,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29981288313866,36.48964647998376,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30174608528614,36.49224031666465,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.305089458823204,36.491922527148354,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30628337711096,36.49071928174548,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30767376720905,36.49317669651299,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30726607143879,36.48830572644193,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.311588786542416,36.49367938280923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31484565883875,36.489920881446544,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31670878827572,36.489838938478904,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31873754411936,36.48724421270709,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3258863016963,36.4856090541517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32130844146013,36.48594600854014,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.327880188822746,36.4818625617483,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>M</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.327740378677845,36.49051793038667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32343778014183,36.48889146661985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32349444180727,36.49675769243881,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.320304960012436,36.498398275560604,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.32140030711889,36.496288986523915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.314102686941624,36.502491900398006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3108920827508,36.50389385448835,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.31213126331568,36.50259377334988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.3114151135087,36.506374027500684,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30761777609587,36.507616374854074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30534058064222,36.50861320270566,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.30364643037319,36.50893038476113,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.298705130815506,36.51451683372118,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29666464030743,36.51199057239069,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R</name>
+        <visibility>1</visibility>
+        <description>Note: null</description>
+        <Point>
+          <coordinates>52.29660730808973,36.5158412353792,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
